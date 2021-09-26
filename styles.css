@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gainsboro;
+    padding: 20 px; 
+    width: 75%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+}
+
+#index-pic {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.recipe-image {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
